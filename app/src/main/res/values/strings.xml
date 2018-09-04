@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">XRental</string>
-    <string name="web_client_id">960764128912-tsjhjnqr5jvfqicmfd244acfp35l6iic.apps.googleusercontent.com</string>
+    <string name="web_client_id">your client id</string>
 </resources>
