@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "960764128912",
+    "firebase_url": "https://xrental-d9e5e.firebaseio.com",
+    "project_id": "xrental-d9e5e",
+    "storage_bucket": "xrental-d9e5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960764128912:android:deb4ef4dccae95ce",
+        "android_client_info": {
+          "package_name": "jp.domus.xrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960764128912-44up415nraf10oi6s9qgeblnpa673dol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.domus.xrental",
+            "certificate_hash": "31fcf7eb68d5ded45d181383e24786e9d44df6fb"
+          }
+        },
+        {
+          "client_id": "960764128912-tsjhjnqr5jvfqicmfd244acfp35l6iic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3LW3EGzoWvrM7h6DaxfH7ZCFVYzZCDQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960764128912-tsjhjnqr5jvfqicmfd244acfp35l6iic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
