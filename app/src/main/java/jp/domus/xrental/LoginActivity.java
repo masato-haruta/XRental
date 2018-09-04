@@ -63,6 +63,7 @@ public class LoginActivity extends AppCompatActivity implements GoogleApiClient.
                     Intent intent =
                     new Intent(LoginActivity.this, MainActivity.class);
                     startActivity(intent);
+                    // preferenceに格納(displayName, mail, providerId)
                 } else {
                     //　ログイン失敗
                     Log.d("javalog", "ログインに失敗しました。");

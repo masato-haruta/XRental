@@ -63,5 +63,6 @@ local.properties
 proguard/
 
 client_id
+app/src/main/res/values/strings.xml
 
 .DS_Store
